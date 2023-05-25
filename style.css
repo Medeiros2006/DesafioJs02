@@ -13,9 +13,11 @@ body{
     align-items: center;
     justify-content: center;
     width: 100vw;
-    height: 50vh;
+    height: 80vh;
     flex-wrap: wrap;
     font-size: 20px;
+    gap: 30px;
+    background-color: rgb(241, 190, 143);
 }
 
 .botao input{
