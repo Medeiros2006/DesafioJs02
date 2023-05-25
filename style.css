@@ -9,11 +9,23 @@
 body{
     font-family: 'Playfair', serif;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     width: 100vw;
     height: 50vh;
     flex-wrap: wrap;
     font-size: 20px;
+}
+
+.botao input{
+    color: rgb(255, 255, 255);
+    background-color: #000000;
+    font-size: 20px;
+    font-family:  'Playfair', serif;
+    width: 320px;
+    height: 50px;
+    border-radius: 40px;
+     
 }
 
